@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+	<title>Game of Thrones | Handlebars training</title>
+	<link rel="stylesheet" href="release/css/style.css">
+</head>
+<body class="page_cast_details">
+	<h1>Cast details</h1>
+	<section class="character_list_container"></section>
+
+		<script id="character_template" type="text/x-handlebars-template">
+			<div class="character">
+				<img src="images/{{shortCode}}.jpeg">
+				{{> characterDetailsPartial}}
+				<a href="index.html" class="button view_details">Back</a>
+				<div class="character-bio-container">
+					<p><b>Bio: {{bio}}</b></p>
+				</div>
+			</div>
+		</script>
+
+	<script src="https://www.gstatic.com/firebasejs/6.6.1/firebase-app.js"></script>
+	<script src="https://www.gstatic.com/firebasejs/3.1.0/firebase-database.js"></script>
+	<script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.1.2/handlebars.min.js"></script>
+	<script src='js/scripts.js'></script>
+
+</body>
+</html>

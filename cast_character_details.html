@@ -1,0 +1,15 @@
+<script id="character_details_partial" type="text/x-handlebars-template">
+  <div class="character-details">
+    <h2>{{name}}</h2>
+    {{{format_name name house.seat}}}
+    <p>{{format_phone_number house.phone}}</p>
+    <p>Actor: {{actor}}</p>
+    {{#with house}}
+    {{#if name}}<p>House: <b>{{name}}</b></p>{{/if}}
+    {{#if seat}}<p>Seat: {{seat}}</p>{{/if}}
+    {{#if words}}<p>Words: {{words}}</p>{{/if}}
+    {{/with}}
+    {{#if location}}<p>Whereabouts: {{location}}</p>{{/if}}
+    {{#unless location}}<p>Whereabouts are unknown...</p>{{/unless}}
+  </div>
+</script>

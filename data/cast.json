@@ -1,0 +1,80 @@
+{
+"characters": [
+	{
+		"name": "Jon Snow",
+		"shortCode": "jon_snow",
+		"actor": "Kit Harrington",
+		"house": {
+			"name": "Stark",
+			"words": "Winter is coming",
+			"seat": "Winterfell",
+			"phone": 5551231234
+		},
+		"location": "The Wall",
+		"bio": "Jon is introduced in 1996's A Game of Thrones as the illegitimate son of Ned Stark, the honorable lord of Winterfell, an ancient fortress in the North of the fictional kingdom of Westeros. Knowing his prospects are limited by his status, Jon joins the Night's Watch, who guard the far northern borders from the wildlings who live beyond The Wall. As the rest of the Starks face grave adversity, Jon finds himself honor bound to remain with the Watch. In A Clash of Kings (1998), he joins a scouting party investigating the growing threat from the otherworldly Others beyond the Wall, and manages to infiltrate the wildlings. Jon learns of their plans to invade Westeros in A Storm of Swords (2000), and begins to fall in love with the fierce wildling woman Ygritte. He betrays them—and Ygritte—before they can attack, but the Night Watch's victory comes at a heavy price for Jon. Now the Lord Commander of the Watch, he appears briefly in 2005's A Feast for Crows. Jon returns as a prominent character in a A Dance with Dragons (2011), working to negotiate an alliance between the Night's Watch and the wildlings. The growing animosity he has attracted from among the Watch finally catches up with him, and he is forced to face the dire consequences."
+	},
+	{
+		"name": "Tyrion Lannister",
+		"shortCode": "tyrion",
+		"actor": "Peter Dinklage",
+		"house": {
+			"name": "Lannister",
+			"words": "Hear me roar",
+			"seat": "Casterly Rock"
+		},
+		"location": "Mereen",
+		"bio": "Tyrion Lannister (also referred to as 'the Imp' or 'the Halfman') is a fictional character in A Song of Ice and Fire, a series of fantasy novels by American author George R. R. Martin, and its television adaptation Game of Thrones. Based on an idea that came to Martin while writing the 1981 novel Windhaven,[2] Tyrion has been called one of the author's finest creations and most popular characters by The New York Times.[3][4] Martin has named the character as his favorite in the series. Introduced in 1996's A Game of Thrones, Tyrion is a dwarf and member of House Lannister, one of the wealthiest and most powerful families in the fictional kingdom of Westeros. He subsequently appeared in Martin's A Clash of Kings (1998) and A Storm of Swords (2000). Tyrion was one of a few prominent characters that were not included in 2005's A Feast for Crows, but returned in the next novel A Dance with Dragons (2011). The character will also appear in the forthcoming volume The Winds of Winter.[6][7] The popularity of the character led Martin and Bantam Books to publish The Wit & Wisdom of Tyrion Lannister, an illustrated collection of Tyrion quotes from the novels, in 2013."
+	},
+	{
+		"name": "Brienne of Tarth",
+		"shortCode": "brienne",
+		"actor": "Gwendoline Christie",
+		"featured": true,
+		"house": {
+			"name": "Tarth",
+			"seat": "Evenfall Hall",
+			"words": "In darkness we rise",
+			"phone": 5551231234
+		},
+		"bio": "Brienne is the only daughter of Lord Selwyn Tarth, Lord of Evenfall Hall, on the island of Tarth. House Tarth is a bannerman to House Baratheon, lords of the Stormlands. Her mother died when Brienne was a child. She had a single older brother, Galladon, who drowned when she was eight, and two younger sisters - both of whom died in infancy. Brienne as a child was under the tutelage of Septa Roelle who found fault in everything about Brienne and destroyed her self-esteem. She told Brienne that though a man would marry her, as she is heir to her father's land, he could never desire her. Her father tried to find Brienne a suitor to wed, however, this has not been easy, owing to Brienne's resistance and her ungainly appearance, but three unsuccessful betrothals have been made. The first was when she was seven and her fiance was ten, but he died of an illness. Next a betrothal was brokered by the lord of land poor house Connington to his young newly knighted heir Ronnet, but young Ser Ronnet broke the betrothal the first time he met her. Her father's last attempt was to betroth her at sixteen to Ser Humfrey Wagstaff, a middle aged friend of his, who was castellan of another house. He informed Brienne that she was expected to give up her training and become more feminine after their wedding. Brienne stated she would acquiesce, but only if he could beat her in combat. Their fight resulted in three broken bones and a broken betrothal."
+	},
+	{
+		"name": "Eddard Stark",
+		"shortCode": "ned_stark",
+		"actor": "Sean Bean",
+		"house": {
+			"name": "Stark",
+			"words": "Winter is coming",
+			"seat": "Winterfell",
+			"phone": 5551231234
+		},
+		"bio": "As established in A Game of Thrones, Eddard 'Ned' Stark is the second son of Rickard Stark, the Lord of Winterfell. Years before the events of the novel, the quiet and shy young Ned is fostered in the Vale by Jon Arryn. During this time Ned becomes close friends with Robert Baratheon, heir to the Stormlands and another ward of Arryn's. Robert is eventually betrothed to Ned's sister Lyanna, but before he can marry her, Crown Prince Rhaegar Targaryen (who is already married and has two young children) absconds with Lyanna. Ned's father and older brother Brandon go to King Aerys II Targaryen and demand that Lyanna be freed; the so-called the Mad Kind executes both Rickard and Brandon, convinced that the Starks seek to usurp him. Ned, Robert and Arryn then rise in revolt, securing the support of House Tully with Ned marrying Catelyn Tully. Ned leaves for war the next morning."
+	},
+	{
+		"name": "Sandor Clegane",
+		"shortCode": "hound",
+		"actor": "Rory McCann",
+		"location": "",
+		"house": {
+			"name": "Clegane",
+			"seat": "Clegane's Keep",
+			"phone": 5551231234
+		},
+		"bio": "In A Game of Thrones, he acts as bodyguard and servant to Prince Joffrey Baratheon, who calls him Dog. He is named a knight of Joffrey's Kingsguard in A Clash of Kings and is often assigned to guard Sansa, trying to protect her from Joffrey's abuse. He flees King's Landing during the Battle of the Blackwater, due to the widespread use of wildfire, a fictional substance similar to Greek fire."
+	},
+	{
+		"name": "Daenerys Targaryen",
+		"shortCode": "daenerys",
+		"actor": "Emilia Clarke",
+		"house": "Targaryen",
+		"location": "Mereen",
+		"house": {
+			"name": "Targaryen",
+			"seat": "Dragonstone",
+			"words": "Fire and blood",
+			"phone": 5551231234
+		},
+		"bio": "Daenerys is the only daughter and youngest child of King Aerys II Targaryen, the 'Mad King', and his sister-wife, Rhaella. Her father died during the Sack of King's Landing, before she was even born. The usurper Robert Baratheon installed himself as king, having defeated Aerys in the conquest known as Robert's Rebellion. Her pregnant mother and brother Viserys, fled to the island of Dragonstone, the ancestral home of House Targaryen, to escape Robert. Daenerys's brother Rhaegar Targaryen was also killed in the war and the forces of House Lannister murdered his wife, Elia Martell, and children, Daenerys's niece and nephew, during the Sack of King's Landing."
+	}
+]
+}
